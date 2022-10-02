@@ -1,0 +1,55 @@
+[INFO ] 2022-09-25 23:13:30.221 [main] BaseBrowserTest - Sleasforce application page is displayed.
+[INFO ] 2022-09-25 23:13:30.334 [main] BaseBrowserTest - User name is displayed in User name field
+[INFO ] 2022-09-25 23:13:36.933 [main] BaseBrowserTest - Sleasforce application page is displayed.
+[INFO ] 2022-09-25 23:13:37.295 [main] BaseBrowserTest - User name is displayed in User name field
+[INFO ] 2022-09-26 18:21:33.138 [main] BaseBrowserTest - Sleasforce application page is displayed.
+[INFO ] 2022-09-26 18:21:33.461 [main] BaseBrowserTest - User name is displayed in User name field
+[INFO ] 2022-09-26 18:21:33.852 [main] BaseBrowserTest - Error message not same as expected, so first test case failed.
+[INFO ] 2022-09-26 18:21:37.898 [main] BaseBrowserTest - Sleasforce application page is displayed.
+[INFO ] 2022-09-26 18:21:38.100 [main] BaseBrowserTest - Sleasforce application page is displayed.
+[INFO ] 2022-09-26 18:21:38.301 [main] BaseBrowserTest - User name is displayed in User name field
+[INFO ] 2022-09-26 18:29:28.447 [main] BaseBrowserTest - Sleasforce application page is displayed.
+[INFO ] 2022-09-26 18:29:28.839 [main] BaseBrowserTest - User name is displayed in User name field
+[INFO ] 2022-09-26 18:29:29.697 [main] BaseBrowserTest - Error message not same as expected, so first test case failed.
+[INFO ] 2022-09-26 18:29:33.607 [main] BaseBrowserTest - Sleasforce application page is displayed.
+[INFO ] 2022-09-26 18:29:33.809 [main] BaseBrowserTest - Sleasforce application page is displayed.
+[INFO ] 2022-09-26 18:29:33.885 [main] BaseBrowserTest - User name is displayed in User name field
+[INFO ] 2022-09-26 18:29:41.369 [main] BaseBrowserTest - Sleasforce application page is displayed.
+[INFO ] 2022-09-26 18:29:41.431 [main] BaseBrowserTest - User name is displayed in User name field
+[INFO ] 2022-09-26 18:29:41.762 [main] BaseBrowserTest - Error message not same as expected, so first test case failed.
+[INFO ] 2022-09-26 18:29:45.229 [main] BaseBrowserTest - Sleasforce application page is displayed.
+[INFO ] 2022-09-26 18:29:45.445 [main] BaseBrowserTest - Sleasforce application page is displayed.
+[INFO ] 2022-09-26 18:29:45.498 [main] BaseBrowserTest - User name is displayed in User name field
+[INFO ] 2022-09-26 18:33:48.783 [TestNG-tests-1] BaseBrowserTest - Sleasforce application page is displayed.
+[INFO ] 2022-09-26 18:33:48.936 [TestNG-tests-1] BaseBrowserTest - User name is displayed in User name field
+[INFO ] 2022-09-26 18:33:49.441 [TestNG-tests-1] BaseBrowserTest - Error message not same as expected, so first test case failed.
+[INFO ] 2022-09-26 18:33:50.595 [TestNG-tests-2] BaseBrowserTest - Sleasforce application page is displayed.
+[INFO ] 2022-09-26 18:33:50.664 [TestNG-tests-2] BaseBrowserTest - User name is displayed in User name field
+[INFO ] 2022-09-26 18:33:51.082 [TestNG-tests-2] BaseBrowserTest - Error message not same as expected, so first test case failed.
+[INFO ] 2022-09-26 18:33:53.285 [TestNG-tests-1] BaseBrowserTest - Sleasforce application page is displayed.
+[INFO ] 2022-09-26 18:33:53.619 [TestNG-tests-1] BaseBrowserTest - Sleasforce application page is displayed.
+[INFO ] 2022-09-26 18:33:53.769 [TestNG-tests-1] BaseBrowserTest - User name is displayed in User name field
+[INFO ] 2022-09-26 18:33:55.256 [TestNG-tests-2] BaseBrowserTest - Sleasforce application page is displayed.
+[INFO ] 2022-09-26 18:33:55.487 [TestNG-tests-2] BaseBrowserTest - Sleasforce application page is displayed.
+[INFO ] 2022-09-26 18:33:55.582 [TestNG-tests-2] BaseBrowserTest - User name is displayed in User name field
+[INFO ] 2022-09-26 18:36:41.855 [main] BaseBrowserTest - Sleasforce application page is displayed.
+[INFO ] 2022-09-26 18:36:41.964 [main] BaseBrowserTest - User name is displayed in User name field
+[INFO ] 2022-09-26 18:36:42.321 [main] BaseBrowserTest - Error message not same as expected, so first test case failed.
+[INFO ] 2022-09-26 18:36:43.561 [main] BaseBrowserTest - Sleasforce application page is displayed.
+[INFO ] 2022-09-26 18:36:43.667 [main] BaseBrowserTest - Sleasforce application page is displayed.
+[INFO ] 2022-09-26 18:36:43.738 [main] BaseBrowserTest - User name is displayed in User name field
+[INFO ] 2022-09-26 23:17:43.725 [main] BaseBrowserTest - Sleasforce application page is displayed.
+[INFO ] 2022-09-26 23:17:43.957 [main] BaseBrowserTest - User name is displayed in User name field
+[INFO ] 2022-09-26 23:17:45.613 [main] BaseBrowserTest - Sleasforce application page is displayed.
+[INFO ] 2022-09-26 23:17:45.739 [main] BaseBrowserTest - Sleasforce application page is displayed.
+[INFO ] 2022-09-26 23:17:45.910 [main] BaseBrowserTest - User name is displayed in User name field
+[INFO ] 2022-09-26 23:28:53.231 [main] BaseBrowserTest - Sleasforce application page is displayed.
+[INFO ] 2022-09-26 23:28:53.426 [main] BaseBrowserTest - User name is displayed in User name field
+[INFO ] 2022-09-26 23:28:55.194 [main] BaseBrowserTest - Sleasforce application page is displayed.
+[INFO ] 2022-09-26 23:28:55.312 [main] BaseBrowserTest - Sleasforce application page is displayed.
+[INFO ] 2022-09-26 23:28:55.498 [main] BaseBrowserTest - User name is displayed in User name field
+[INFO ] 2022-09-26 23:32:04.584 [main] BaseBrowserTest - Sleasforce application page is displayed.
+[INFO ] 2022-09-26 23:32:04.758 [main] BaseBrowserTest - User name is displayed in User name field
+[INFO ] 2022-09-26 23:32:06.721 [main] BaseBrowserTest - Sleasforce application page is displayed.
+[INFO ] 2022-09-26 23:32:07.032 [main] BaseBrowserTest - Sleasforce application page is displayed.
+[INFO ] 2022-09-26 23:32:07.175 [main] BaseBrowserTest - User name is displayed in User name field

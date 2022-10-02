@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="salesForceNew.test.tests.AutomationScripts">
+        <methods>
+          <include name="setUp"/>
+          <include name="setupBeforeTest"/>
+          <include name="salesforceTest3"/>
+          <include name="teardownAfterTest"/>
+          <include name="salesforceTest1"/>
+          <include name="salesforceTest2"/>
+          <include name="salesforceTest4B"/>
+          <include name="salesforceTest4A"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- salesForceNew.test.tests.AutomationScripts -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

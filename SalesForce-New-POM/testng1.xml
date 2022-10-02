@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Regression">
+  <parameter name="browsername" value="firefox"/>
+    <classes>
+      <class name="salesForceNew.test.tests.AutomationScripts">
+      <methods>
+      <exclude name = "salesforceTest1" />
+      <include name = "salesforceTest2" />
+      <exclude name = "salesforceTest3" />
+      <exclude name = "salesforceTest4A" />
+      <exclude name = "salesforceTest4B" />
+      </methods>
+      </class>      
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

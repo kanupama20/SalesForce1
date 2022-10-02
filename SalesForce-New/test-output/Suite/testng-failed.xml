@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Regression(failed)">
+    <parameter name="browsername" value="chrome"/>
+    <classes>
+      <class name="salesForceNew.test.tests.AutomationScripts">
+        <methods>
+          <include name="salesforceTC06"/>
+          <include name="setUp"/>
+          <include name="setupBeforeTest"/>
+          <include name="teardownAfterTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- salesForceNew.test.tests.AutomationScripts -->
+    </classes>
+  </test> <!-- Regression(failed) -->
+</suite> <!-- Failed suite [Suite] -->
